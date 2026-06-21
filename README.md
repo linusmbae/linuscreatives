@@ -14,41 +14,11 @@ This is a responsive, multi-page portfolio website featuring:
 - **Projects** - Featured project portfolio
 - **Contact** - Contact form and communication options
 
-## Live Demo
-
-Available at: [linuscreatives.com](https://linuscreatives.com)
-
 ## Technologies Used
 
 - **Frontend**: HTML5, CSS3, JavaScript (jQuery), Bootstrap 5
 - **Styling**: Custom CSS, Font Awesome Icons, Google Fonts (Merriweather & Merriweather Sans)
 - **Features**: Smooth scrolling, responsive navigation, page loader, floating action button
-
-## Project Structure
-
-```
-linuscreatives-master/
-├── index.html              # Home page
-├── about.html              # About page
-├── skills.html             # Skills page
-├── experience.html         # Experience page
-├── education.html          # Education page
-├── projects.html           # Projects page
-├── contact.html            # Contact page
-├── css/
-│   ├── styles.css          # Main stylesheet (Bootstrap-based)
-│   └── custom.css          # Custom styles and overrides
-├── js/
-│   └── scripts.js          # JavaScript functionality
-└── assets/
-    ├── img/
-    │   ├── profile/        # Profile images
-    │   ├── skills/         # Skill icons
-    │   ├── social/         # Social media icons
-    │   ├── portfolio/      # Project thumbnails
-    │   └── favicon.ico     # Site favicon
-    └── Mbae Linus Mutugi CV.pdf  # Downloadable resume
-```
 
 ## Features
 
@@ -81,9 +51,6 @@ linuscreatives-master/
 - **Location**: Nairobi, Kenya
 - **Phone**: +254 714 719 935
 - **Email**: linusmutugi6727@gmail.com
-- **LinkedIn**: [linkedin.com/in/linus-mutugi-b5336a1b2](https://www.linkedin.com/in/linus-mutugi-b5336a1b2/)
-- **Instagram**: [@mutugimbae](https://www.instagram.com/mutugimbae/)
-- **Twitter/X**: [@linus66666261](https://x.com/linus66666261)
 
 ## Setup
 
